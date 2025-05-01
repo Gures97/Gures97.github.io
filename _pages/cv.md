@@ -4,8 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: Marcin_Gorecki_eng_2025_v2.pdf # you can also use external links here
+description: I present to you my CV. The PDF file is not available at the moment. 
 toc:
   sidebar: left
 ---
