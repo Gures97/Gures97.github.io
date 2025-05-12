@@ -104,6 +104,8 @@
 }
 .si-leetcode:before {
   content: "\e964";
+  margin-left: -12px;
+  margin-right: -12px;
 }
 .si-medrxiv:before {
   content: "\e965";
