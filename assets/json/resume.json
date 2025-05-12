@@ -125,19 +125,42 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Only Duolingo ;)",
+      "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Computer science in general",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+      ]
+    },
+    {
+      "name": "Electronics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Art",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Internet culture",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Psychology",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
       ]
     }
   ]
