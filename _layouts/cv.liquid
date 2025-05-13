@@ -5,7 +5,7 @@ layout: default
   <div class="post">
     <header class="post-header">
       <h1 class="post-title">
-        {{ page.title }}
+        {{ page.title }} hehe
         {% if page.cv_pdf %}
           <a
             {% if page.cv_pdf contains '://' %}
@@ -57,6 +57,22 @@ layout: default
     <header class="post-header">
       <h1 class="post-title">
         {{ page.title }}
+        {% if page.cv_pdf_pl %}
+          <a
+            {% if page.cv_pdf_pl contains '://' %}
+              href="{{ page.cv_pdf_pl }}"
+            {% else %}
+              href="{{ page.cv_pdf_pl | prepend: 'assets/pdf/' | relative_url }}"
+            {% endif %}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="float-right"
+            style="text-align:center;margin-left:10px"
+          >
+            <i class="fa-solid fa-file-pdf"></i>
+            <h5>Polish</h5>
+          </a>
+        {% endif %}
         {% if page.cv_pdf %}
           <a
             {% if page.cv_pdf contains '://' %}
@@ -67,8 +83,10 @@ layout: default
             target="_blank"
             rel="noopener noreferrer"
             class="float-right"
+            style="text-align:center"
           >
             <i class="fa-solid fa-file-pdf"></i>
+            <h5>English</h5>
           </a>
         {% endif %}
       </h1>
