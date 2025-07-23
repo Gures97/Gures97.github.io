@@ -2,7 +2,7 @@
 layout: page
 title: Test environment
 description: Thesis project - test environemt for testing devices with GazModem protocol
-img: assets/img/4.jpg
+img: assets/img/thesisProject/test.png
 importance: 1
 category: work
 related_publications: false
