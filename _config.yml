@@ -202,7 +202,7 @@ exclude:
   - _pages/repositories.md
   - _layouts/page.liquid
   - _posts/
-  - _projects/
+  - _projects/*_project.md
   - assets/jupyter/blog.ipynb
 keep_files:
   - CNAME
