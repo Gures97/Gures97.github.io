@@ -6,7 +6,7 @@ subtitle: Embedded developer
 
 profile:
   align: right
-  image: profesznal.jpg
+  image: profesznal.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Marcin Górecki</p>
