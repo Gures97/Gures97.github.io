@@ -4,8 +4,8 @@
     "label": "Embedded developer",
     "image": "",
     "email": "19gures97@gmail.com",
-    "phone": "+48 782160301",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "phone": "+48 782 160 301",
+    "url": "https://gures97.github.io",
     "summary": "Embedded Developer with 5 years of experience in embedded development. Has experience with creating and maintaining controllers for HVAC and Automotive industries. Open for development in any embedded industries. Has knowledge in C language, electronics, has experience with C#, knows Python, batch, bash and Powershell. Passionate about operating systems and computer technology in general.",
     "location": {
       "address": "-",
@@ -28,12 +28,12 @@
       "location": "Białystok, Poland",
       "position": "Embedded Software Engineer",
       "url": "https://sii.pl/",
-      "startDate": "2024-01-01",
-      "endDate": "2024-12-31",
+      "startDate": "2023-01-01",
+      "endDate": "2023-12-31",
       "summary": "Leader of low-level part of a bench project. Software developer for big automotive company.",
       "highlights": ["Developing and testing software for various hardwares with Atmega and STM32 microcontrollers",
                      "Configuring and developing functions for FreeRTOS",
-                     "Configuring CI/CD for small projects in GitLab",
+                     "Configuring CI/CD for small and medium projects in GitLab",
                      "Managing a low-level part (C embedded/electronics) of a demonstration project"]
     },
     {
@@ -42,7 +42,7 @@
       "position": "Junior embedded developer",
       "url": "https://plum.pl/",
       "startDate": "2019-01-01",
-      "endDate": "2023-12-31",
+      "endDate": "2022-12-31",
       "summary": "Software developer of HVAC devices.",
       "highlights": ["Developing and testing of software for custom hardwaredevices used in HVAC industry",
                      "Developing of software for production and troubleshooting support",
@@ -50,6 +50,16 @@
     }
   ],
   "education": [
+      {
+      "institution": "Białystok University of Technology",
+      "location": "Białystok, Poland",
+      "url": "https://wi.pb.edu.pl/",
+      "area": "Computer Science (Incomplete)",
+      "studyType": "Master",
+      "startDate": "2021-01-01",
+      "endDate": "2022-06-01",
+      "score": "10"
+    },
     {
       "institution": "Białystok University of Technology",
       "location": "Białystok, Poland",
@@ -61,6 +71,15 @@
       "score": "10"
     }
   ],
+  "certificates": [
+    {
+      "name": "Linux Essentials",
+      "date": "2025-08-01",
+      "issuer": "Linux Professional Institute (LPI)",
+      "url": "https://www.credly.com/earner/earned/badge/01e9ca24-d841-4686-be71-9c96c1dd93f3",
+      "icon": "fa-brands fa-linux"
+    }
+  ],
   "skills": [
     {
       "name": "Languages",
@@ -68,7 +87,8 @@
       "icon": "fa-solid fa-c",
       "keywords": [
         "C/C++",
-        "Python"
+        "Python",
+        "Bash"
       ]
     },
     {
